@@ -1,6 +1,6 @@
 //Problem Statement:-
 
-/*Write C++ program to draw the following pattern.					
+/*Write C++ program to draw the following pattern.
 Use DDA line and Bresenham‘s circle drawing algorithm.	
 Apply the concept of encapsulation.*/
 
